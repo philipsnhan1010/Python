@@ -1,5 +1,4 @@
 from tkinter import *
-from pytz import country_names
 import requests
 import json
 from datetime import datetime 
